@@ -3,9 +3,8 @@ name: Deploy to GitHub-Pages
 on:
   push:
     branches:
-      
-          gh-pages
-          
+      - master
+
 jobs:
   deploy:
     name: Deploy
@@ -43,4 +42,3 @@ jobs:
         with:
           folder: ./build
           branch: gh-pages
-          target-folder: ${{ github.event.pull_request.number }}
