@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Виктория Калугина](https://up.htmlacademy.ru/adaptive/31/user/1788421).
-* Наставник: [Александр Зиновьев](https://htmlacademy.ru/profile/id198751).
+* Наставник: [Ольга Ветер](https://htmlacademy.ru/profile/id73199).
 
 ---
 
